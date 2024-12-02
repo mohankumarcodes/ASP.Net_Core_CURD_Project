@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\migrations\\20241202102127_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:migrations\\20241202102127_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202110746_UpdateModel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202110746_UpdateModel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202103407_UpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202103407_UpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|d:\\devlopment work\\applications\\asp.net core web api\\curd_project_webapi\\curd_project_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB5E9347-A9A5-4043-A9E2-893419317E6E}|CURD_Project_WebAPI.csproj|solutionrelative:curd_project_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241202110746_UpdateModel1.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202110746_UpdateModel1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202110746_UpdateModel1.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202110746_UpdateModel1.cs",
+              "RelativeToolTip": "Migrations\\20241202110746_UpdateModel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:07:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241202102127_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202102127_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202102127_InitialMigration.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202102127_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20241202102127_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:21:27.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:14:46.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T10:11:02.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:03:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:01:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:59:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241202103407_UpdateModel.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202103407_UpdateModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202103407_UpdateModel.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\Migrations\\20241202103407_UpdateModel.cs",
+              "RelativeToolTip": "Migrations\\20241202103407_UpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:34:07.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CURD_Project_WebAPI",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\CURD_Project_WebAPI.csproj",
+              "RelativeDocumentMoniker": "CURD_Project_WebAPI.csproj",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\ASP.Net Core Web API\\CURD_Project_WebAPI\\CURD_Project_WebAPI.csproj",
+              "RelativeToolTip": "CURD_Project_WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T09:58:59.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

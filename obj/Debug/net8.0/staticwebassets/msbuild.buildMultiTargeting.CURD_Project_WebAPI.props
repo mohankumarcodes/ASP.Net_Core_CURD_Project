@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CURD_Project_WebAPI.props" />
+</Project>
